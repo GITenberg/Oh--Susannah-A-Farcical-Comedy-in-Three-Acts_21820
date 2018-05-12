@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '24908'
     url: http://www.gutenberg.org/2009/agents/24908
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21820#Oh--Susannah-A-Farcical-Comedy-in-Three-Acts
 gutenberg_issued: '2007-06-12'
 gutenberg_type: Text
 identifiers:
